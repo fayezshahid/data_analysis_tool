@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Salary,Age,Status
+E001,John Smith,Sales,60000,34,Active
+E002,Sarah Khan,HR,52000,29,Active
+E003,Ali Rehman,Engineering,75000,41,On Leave
+E004,Maria Garcia,Marketing,58000,36,Active
+E005,Tom Hardy,Engineering,77000,38,Active
+E006,Lisa Wong,Sales,61000,28,Resigned
+E007,Ayesha Patel,HR,,33,Active
+E008,Omar Aziz,Marketing,59000,35,Active
+E009,Jane Doe,Engineering,76000,40,On Leave
+E010,Rick Lee,Sales,60000,30,Resigned
