@@ -132,3 +132,4 @@ def test_generate_report_dataset_missing(visualizer):
     visualizer._validate_dataset = lambda ds: False
     result = visualizer.generate_report('dataset1')
     assert result is False
+
