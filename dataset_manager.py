@@ -55,7 +55,7 @@ class DataAnalysisAssistant:
                     break
                 
                 # Process command through CLI interface
-                result = "EXIT" # method to be called from CLI class
+                result = self.cli.process_command(user_input) # method to be called from CLI class
                 
                 # Handle special return codes
                 if result == "EXIT":
